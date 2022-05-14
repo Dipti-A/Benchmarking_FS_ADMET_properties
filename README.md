@@ -6,13 +6,11 @@ Benchmarking feature selection algorithms in the molecular property prediction s
 To evaluate variety of machine learning models to better predict two ADMET properties namely lipophilicity and Ames Mutagenicity
 properties of unseen compounds by benchmarking several feature selection techniques.
 
-**Dataset**:
-
-<img src=https://user-images.githubusercontent.com/74921239/168448044-8d531470-a489-4e4b-95f5-79e415967adb.png width="600" height="200">
+<img src=https://user-images.githubusercontent.com/74921239/168448710-9b27c6a6-b8e4-4bd2-9ca2-a64d217ae869.png width="500" height="300">
 
 **Project workflow:**
 
-<img src=https://user-images.githubusercontent.com/74921239/168448015-21028567-7391-423d-9557-011e710290ce.png width="800" height="300">
+<img src=https://user-images.githubusercontent.com/74921239/168448015-21028567-7391-423d-9557-011e710290ce.png width="700" height="300">
 
 <img src=https://user-images.githubusercontent.com/74921239/168448312-68545dc9-c656-4eff-a67e-4ec1ad55615a.png width="500" height="300">
 
