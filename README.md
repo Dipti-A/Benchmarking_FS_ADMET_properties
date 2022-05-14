@@ -10,7 +10,7 @@ properties of unseen compounds by benchmarking several feature selection techniq
 
 **Project workflow:**
 
-<img src=https://user-images.githubusercontent.com/74921239/168448015-21028567-7391-423d-9557-011e710290ce.png width="700" height="300">
+<img src=https://user-images.githubusercontent.com/74921239/168448015-21028567-7391-423d-9557-011e710290ce.png width="500" height="300">
 
 <img src=https://user-images.githubusercontent.com/74921239/168448312-68545dc9-c656-4eff-a67e-4ec1ad55615a.png width="500" height="300">
 
@@ -18,8 +18,8 @@ properties of unseen compounds by benchmarking several feature selection techniq
 
 <img src=https://user-images.githubusercontent.com/74921239/168448632-182de796-af1c-4f7c-986a-b8c420d6d4cb.png width="700" height="400">
 
-<img src=https://user-images.githubusercontent.com/74921239/168448607-6252b0fe-9c95-4cb6-a9c8-f6330a17d2bb.png  width="800" height="500">
+<img src=https://user-images.githubusercontent.com/74921239/168448607-6252b0fe-9c95-4cb6-a9c8-f6330a17d2bb.png  width="700" height="400">
 
 
-<img src=https://user-images.githubusercontent.com/74921239/168448452-87dd8ffe-3153-4be5-8ae9-ea72ba29c584.png width="800" height="400">
+<img src=https://user-images.githubusercontent.com/74921239/168448452-87dd8ffe-3153-4be5-8ae9-ea72ba29c584.png width="700" height="400">
 
